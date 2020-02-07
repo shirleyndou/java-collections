@@ -30,7 +30,8 @@ public class CollectionDeque {
 
             /*A Hash function stores items in key/value pairs
             * and you can access them by an index of another type
-            * in this case the type will be of LinkedList*/
+            * in this case the type will be of LinkedList
+            * LinkedList is my index and Integer will be my object (numbers in the list)*/
 
             HashMap <LinkedList, Integer> map = new HashMap<LinkedList, Integer>();
 
