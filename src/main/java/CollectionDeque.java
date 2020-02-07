@@ -42,9 +42,9 @@ public class CollectionDeque {
 
                 if(!map.containsKey(list))//checking if the key exists in the map
                 {
-                    map.put(list,1);
+                    map.put(list,1); //adding elements in my list
                     unique++;
-                   // continue;
+
                 }
 
             }
