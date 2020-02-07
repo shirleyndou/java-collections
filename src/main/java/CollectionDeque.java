@@ -53,7 +53,7 @@ public class CollectionDeque {
             }
 
         }
-        System.out.println("subArraySize = " + subArraySize);
+        System.out.println("subArraySize = " + subArraySize); //dear marker, change the subArraySize under the main function
         System.out.println("Output = " + maxNumbers);
 
          return maxNumbers;
